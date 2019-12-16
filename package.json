@@ -65,7 +65,7 @@
     "portastic": "^1.0.1",
     "qs": "^6.5.1",
     "serve-favicon": "^2.3.0",
-    "sourcemapped-stacktrace": "^1.0.1",
+    "sourcemapped-stacktrace": "^1.1.11",
     "split2": "^2.1.0",
     "thenify": "^3.1.1",
     "through2": "^2.0.0",
