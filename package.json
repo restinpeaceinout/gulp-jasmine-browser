@@ -64,7 +64,7 @@
     "multipipe": "^2.0.1",
     "portastic": "^1.0.1",
     "qs": "^6.5.1",
-    "serve-favicon": "^2.3.0",
+    "serve-favicon": "^2.5.0",
     "sourcemapped-stacktrace": "^1.0.1",
     "split2": "^2.1.0",
     "thenify": "^3.1.1",
