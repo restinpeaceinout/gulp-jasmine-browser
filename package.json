@@ -67,7 +67,7 @@
     "serve-favicon": "^2.3.0",
     "sourcemapped-stacktrace": "^1.0.1",
     "split2": "^2.1.0",
-    "thenify": "^3.1.1",
+    "thenify": "^3.3.1",
     "through2": "^2.0.0",
     "through2-reduce": "^1.1.1",
     "vinyl": "^1.2.0",
