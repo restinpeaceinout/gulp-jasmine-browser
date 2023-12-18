@@ -68,7 +68,7 @@
     "sourcemapped-stacktrace": "^1.0.1",
     "split2": "^2.1.0",
     "thenify": "^3.1.1",
-    "through2": "^2.0.0",
+    "through2": "^2.0.5",
     "through2-reduce": "^1.1.1",
     "vinyl": "^1.2.0",
     "ws": "^3.3.1"
